@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Arian892&label=Profile%20Views&color=blue&style=flat)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmud1628&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahmud1628&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud1628&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
